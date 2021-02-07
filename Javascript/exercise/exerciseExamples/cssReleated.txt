@@ -1,0 +1,29 @@
+what is show dom?
+css is global, shadow dom is scope subtree inside element
+
+How to make trangle with pure css?
+
+what is psudo elements?
+
+what is data attributes
+
+what is box model
+padding border margin content
+box-sizing(border-box"inside"/)
+
+what is specificity
+specifity is set of rules to diceide which css class to apply
+id has more prioriy than class
+same level last class will be applied
+more specific will be choosed /class has morepriotrity han div{}
+!important keyworkd
+
+how to align block
+
+different between satic relative absolute and fixed position
+
+what is visibility: hidden? 
+will hold position but not display
+display:none; not hold position and not display
+
+

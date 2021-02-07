@@ -1,0 +1,23 @@
+{
+	"server": "http://localhost",
+	"port": 8080,
+	"loggingLevel": "warn",
+	"loggingPath": "./log/output.log",
+	"loggingJSON": false,
+	"loggingMaxSizeFile": 5242880,
+	"loggingMaxFiles": 5,
+	"loggingLabel": "Input-API",
+	"loggingColorized": false,
+	"loggingTime": true,
+	"inputDataMaxLength": 20500000,
+	"weatherUrl":"api.openweathermap.org/data/2.5/weather",
+	"weatherProtocol":"http",
+	"APIkey":"eff85cd169416f673bc94a8fb7bc68e2",
+	"stripUrl":"status.stripe.com/current/atom.xml",
+	"stripProtocol":"https",
+	"myIpCheck": "api.ipify.org?format=json",
+	"myIpProtocol":"https",
+	"ipstackUrl":"api.ipstack.com/",
+	"ipStackProtocol":"http",
+	"ipStackAccessKey": "80d5334869cd550d034218c3857a5641"
+}

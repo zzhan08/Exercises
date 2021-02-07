@@ -1,0 +1,16 @@
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\work\DataStructure\DataStructure\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\work\DataStructure\DataStructure\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

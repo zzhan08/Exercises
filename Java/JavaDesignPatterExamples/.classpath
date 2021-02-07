@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="momento">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="statePattern"/>
+	<classpathentry kind="src" path="ObservePattern"/>
+	<classpathentry kind="src" path="DecoratorPattern"/>
+	<classpathentry kind="src" path="factoryPattern"/>
+	<classpathentry kind="src" path="abstractFactoryPattern"/>
+	<classpathentry kind="src" path="singletonPattern"/>
+	<classpathentry kind="src" path="CommandPattern"/>
+	<classpathentry kind="src" path="adapterPatter"/>
+	<classpathentry kind="src" path="facadePattern"/>
+	<classpathentry kind="src" path="proxyPattern"/>
+	<classpathentry kind="src" path="bridgePattern"/>
+	<classpathentry kind="src" path="templatePattern"/>
+	<classpathentry kind="src" path="compositePattern"/>
+	<classpathentry kind="src" path="iteratorPattern"/>
+	<classpathentry kind="src" path="builderPattern"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

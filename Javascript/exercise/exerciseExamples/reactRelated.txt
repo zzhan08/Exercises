@@ -1,0 +1,30 @@
+Reactjs Lifecycle methods render
+. Constructor - once + set Initial state
+
+. Static getDerivedStateFromProps - (old: componentWillReceiveProps)
+  dont want user use this keywork to access so it is static
+. Render - cant set state here, or go to infinent loop
+
+. ComponentDidMount - tell when dom is ready
+
+Reactjs Lifecycle methods re-render
+. static getDerivedStateFromProps
+. shouldComponentUpdate
+. Render
+. GetSnapshotbefoerUpdate - pre commit phase 
+. componetDidupdate
+
+
+ComponentWillUnmount - when component die
+
+Why use arrow function in react?
+arrow function has no this keyword, so easier bind class scope
+
+how to prevent component rerendering?
+shouldComponentUpdate()
+react.pureComponent
+react.memo
+
+UseRef
+
+ForwardRef

@@ -1,0 +1,32 @@
+jre\\bin\\java -DJENKINS_HOME=C:/work/ -jar jenkins.war
+jre\\bin\\javaw -DJENKINS_HOME=C:/work/ -jar jenkins.war
+-----BEGIN RSA PRIVATE KEY-----
+      Proc-Type: 4,ENCRYPTED
+      DEK-Info: AES-128-CBC,647D34DCF9F1221CB4BD96DD800D86C6
+
+      uagZ4uAc5zT/2UaNei6DThhgovw+pzQz0yWrTxvNAz9EqYteqBTjXrGw3U0hZYZj
+      ngnlryGeLKMk2IbyB9q3F2tL6+ERPUnUV5hunJ2F0kc7colGdz0xg9Z7OnNOWJXT
+      aVrd8TPZapiaEqJ5JwbhvmPpqA5r7K4ADTNWbmfh38xqpg0z0ySGgcoKssEp6mE7
+      5OYTMD/SrLoxL9xeoQNHP35m5Vw9NErVvUg5ETKLV4ba3hWqSxTpbOE2mWibJV+/
+      dLlZw8oUNor9Y9BGHTy3ZJ7FOStZcmX6LiLvtgmKk1tO1D7e6akaIhiMgB2C7sdf
+      2DaJE2rZDtSYhW7NU4GgDE9HJaq/Yqesqh862tU4Bl3hlVCScZrBZZLIciv0xRUz
+      89Z3peoShvTMPfFEM9x6Z6768VGP7dKycRD2wssliEbboJpodks+EpjRe3yHX5je
+      cxTmLkl/2miG9A6uyoangTUP931P1FZ8IqOybtInkB6KLlYjV+jsEa6/WM78tIep
+      uDSPDT6/1fjRh0n62Za7J/JJmbxvaWhZiUgaqFNqU6ovAyXoLG01AtIHL7zLqhWW
+      3MSxdRR0SPyVJhFAgupISx8t00U79fRELP+diL1819l0Mmg+Oc+FC7vXqJFCm+Eh
+      +//iqQ9kwbiteny3qPG7U4IFljEXq3RZGcVCCeVpmlYq7Z2GwS8dDdUmCmJWG1+r
+      smjbGTTmTvz+jjEozNG0ATy8Ch+bagv5qgx/5PCi9Z6k+4Ua7tt0gbxK4hR3k8Bu
+      vmcZOFB/GsC8gw2zVRmgYHrtIq7E6Epzstkq3tlpZdCEyIZwNWXPDTE88y8BI29G
+      O+/9Ss2tWgnNKxBCjP4w2ym79UorJZOf19BDhUe4LMX8RWJNe93QkVNs7qPPSzt1
+      0PeKYtrGLAU4IN3grpOWE844+UIyMM6RiOGmF++u6fAQpJ4qVxnbpsiTvN9eNNcX
+      xQOxpPPoZIY6IUhXxiI16hP60wC3o9Zzugt/WyZfSW08nhdMn4abnXdTigmNTrBH
+      O8g7xK3ou/Llr+GwnBtFfbDlFPYPi5Na3DcNg0XDqiEk1B3WkT0IDJe/0nkSig7e
+      c5aOxq4oep/JNK3vGvfh898fIlq7Wl4pW5LnRaBjKMaO9YPUhXJDXerYhfPE4os1
+      G7jV7T9ZfZID3zo5GpuezmhLUbWSZr4Z8gPCNxWwWiZgIOQrzUmSjvmWLzxhVh9v
+      k/nfeZyh8Yz/rIsFrfK8fkCtnnlLRXofyaEOWvef7/62CqdlClNPd4ZRNaLTACR+
+      jcB/tkk5D0776Aal1SNeK38ruXe003NJNnaTkJfaw2l21TRfbGDO1o2SdPTopoCW
+      5UGrTMBHHB1aLGNe1RLDGlHtJZNAng2bU0yLwNEOjWmL2LZyqUK6iJTAbdGP5LEU
+      jSCPkluGDT8c8o4PdcgaeOLBddeWTvvTezJEpOWIGImaLa2w4B0KkbactXpt4qGi
+      R2d/HI6/piG2pp2Qqwh62SUF10ti3DPlKKs0mlsLm5AN9yW2QpYFGsVnTm0DzMOv
+      4ZtmFPVqzDbNiucfR2ItPit/JO06e7EZTw8qJa5X+1Wev7OLIhHp3Q0JRDhIqrLO
+      -----END RSA PRIVATE KEY-----

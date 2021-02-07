@@ -1,0 +1,27 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "## An Introduction to Tines",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "jest --no-cache",
+    "test:watch": "jest --watch --no-cache",
+    "start": "node tiny-tines.js"
+  },
+  "engines": {
+    "node": "10.16.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.9.6",
+    "@babel/preset-env": "7.9.6",
+    "babel-jest": "26.0.1",
+    "eslint": "7.0.0",
+    "jest": "26.0.1"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "underscore": "1.10.2"
+  }
+}
